@@ -3,7 +3,8 @@ vagrant-apache
 
 Vagrantfile for basic apache server setup
 
-* Instructions
+Instructions
+------------
 
 Copy the Vagrantfile to the base of your html project 
 (The actual site is properly in a subfolder, like "html", right?)
